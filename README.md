@@ -1,4 +1,4 @@
-# h1 / Potatoes [Blockquotes, images, links]
+# h1 / Potatoes [blockquotes, images, links]
 
 ![Potatoes of Peru](http://forrked.com/potatoes-peru.png)
 
@@ -9,24 +9,31 @@ The potato is a starchy, tuberous crop from the perennial Solanum tuberosum of t
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Potatoes)
 
-## h2 / Potato production and nutrition [Lists]
+## h2 / Potato production and nutrition [lists and tables]
 
-Top Potato Producers in 2009 in million metric tons [ordered list]
+Potatoes
 
-1. People's Republic of China 73
-2. India 34
-3. Russia 31
-4. Ukraine 20
-5. United States 20
+1. Potato
+2. Potatoes
+3. Potatoes
+4. !
 
-Potato, raw, with skin nutritional value per 100 g [unordered list]
+Potato, raw, with skin nutritional value per 100g
 
-* Carbohydrates 19 g
-	* Starch 15 g
-	* Dietary Fiber 2.2 g
-* Fat 0.1 g
-* Protein 2 g
-* Water 75 g
+* Carbohydrates 19g
+	* Starch 15g
+	* Dietary Fiber 2.2g
+* Fat 0.1g
+* Protein 2g
+* Water 75g
+
+Top Potato Producers in 2009                               | Million metric tons
+-----------------------------------------------------------|--------------------
+People's Republic of China                                 | 73
+India                                                      | 34
+Russia                                                     | 31
+Ukraine                                                    | 20
+United States                                              | 20
 
 ### h3 / Coding potatoes 
 
