@@ -49,6 +49,8 @@ United States                                              | 20
 		this.serving = serving;
 	}
 
+To make a side of french fries, make a new ``fries`` object.
+
 `var side = new fries("shoestring","potatoes",2);`
 
 #### h4 / Fancy Potatoes [combined markdown tags]
