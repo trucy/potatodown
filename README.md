@@ -2,7 +2,7 @@
 
 A potato-based visual reference for things you can do in Markdown.
 
-# h1 / Potatoes [images, links, emphasis, blockquotes]
+# h2 / Potatoes [images, links, emphasis, blockquotes]
 
 ![Potatoes of Peru](http://forrked.com/potatoes-peru.png)
 **Photo credit:** [Eric Miraglia](http://www.flickr.com/photos/equanimity/4801336468/)
@@ -14,7 +14,7 @@ The potato is a starchy, tuberous crop from the perennial _Solanum tuberosum_ of
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Potatoes "optional title: Potatoes of Peru")
 
-## h2 / Potato production and nutrition [lists, horizontal rules, tables]
+## h3 / Potato production and nutrition [lists, horizontal rules, tables]
 
 Count Potatoes
 
@@ -44,7 +44,7 @@ Russia                                                     | 31
 Ukraine                                                    | 20
 United States                                              | 20
 
-### h3 / PotatoScript [code]
+### h4 / PotatoScript [code]
 
 	// make french fry objects
 	function fries(style,ingredients,serving) {
@@ -57,7 +57,7 @@ To make a side of french fries, make a new ``fries`` object.
 
 `var side = new fries("shoestring","potatoes",2);`
 
-#### h4 / Fancy Potatoes [combined markdown tags]
+#### h5 / Fancy Potatoes [combined markdown tags]
 
 > ##### Potato species
 >
@@ -83,7 +83,7 @@ To make a side of french fries, make a new ``fries`` object.
 
     A lack of genetic diversity from the low number of varieties left the crop vulnerable to disease. In 1845, a plant disease known as late blight, caused by the fungus-like oomycete Phytophthora infestans, spread rapidly through the poorer communities of western Ireland, resulting in the crop failures that led to the [Great Irish Famine](http://en.wikipedia.org/wiki/Great_Famine_(Ireland)).
 
-##### h5 / Genetically-modified potato varieties [reference links]
+##### h6 / Genetically-modified potato varieties [reference links]
 
 In 2010, the European Commission cleared the way for 'Amflora' to be grown in the European Union. Nevertheless, under EU rules, individual countries have the right to decide whether they will allow this potato to be grown on their territory. Commercial planting of 'Amflora' was expected in the Czech Republic and Germany in the spring of 2010, and Sweden and the Netherlands in subsequent years.[[1]]
 
@@ -92,7 +92,9 @@ In 2010, a team of Indian scientists announced they had developed a genetically 
 [1]:http://www.gmo-compass.org/eng/news/492.docu.html
 [2]:http://www.pnas.org/content/early/2010/09/13/1006265107.full.pdf
 
-###### h6 / Learn more
+---
+
+**Learn more**
 
 * [Daring Fireball's excellent guide to Markdown syntax](http://daringfireball.net/projects/markdown/)
 * [Mark Shropshire's Markdown examples on Github](http://daringfireball.net/projects/markdown/)
