@@ -36,13 +36,18 @@ Potato, raw, with skin nutritional value per 100g
 
 ***
 
-Top Potato Producers in 2009                               | Million metric tons
------------------------------------------------------------|--------------------
-People's Republic of China                                 | 73
-India                                                      | 34
-Russia                                                     | 31
-Ukraine                                                    | 20
-United States                                              | 20
+|Nutrient content of major staple foods                          |||||
+|--------------------------------------------------------------------|
+|                             | Staple                            ||||
+|-----------------------------|--------------------------------------|
+|                             | Maize / Corn | Rice | Wheat | Potato |
+|-----------------------------|--------------------------------------|
+|Component (per 100g portion)                                    |||||
+|-----------------------------|:------------:|:----:|:-----:|-------:|
+|Water (g)                    |76            |12    |11     |79      |
+|Energy (kJ)                  |360           |1528  |1419   |322     |
+|Protein (g)                  |3.2           |7.1   |13.7   |2.0     |
+|Fat (g)                      |1.18          |0.66  |2.47   |0.09    |
 
 #### h4 / PotatoScript [code]
 
@@ -87,7 +92,7 @@ To make a side of french fries, make a new ``fries`` object.
 
 In 2010, the European Commission cleared the way for 'Amflora' to be grown in the European Union. Nevertheless, under EU rules, individual countries have the right to decide whether they will allow this potato to be grown on their territory. Commercial planting of 'Amflora' was expected in the Czech Republic and Germany in the spring of 2010, and Sweden and the Netherlands in subsequent years.[[1]]
 
-In 2010, a team of Indian scientists announced they had developed a genetically modified potato with 35 to 60% more protein than non-modified potatoes. Protein content was boosted by adding the gene AmA1 from the grain amaranth. They also found 15 to 25% greater crop yields with these potatoes.[[2]]
+In 2010, a team of Indian scientists announced they had developed a genetically modified potato with 35 to 60% more protein than non-modified potatoes. Protein content was boosted by adding the gene AmA1 from the grain amaranth. They also found 15 to 25% greater crop yields with these potatoes.[[^2]]
 
 [1]:http://www.gmo-compass.org/eng/news/492.docu.html
 [2]:http://www.pnas.org/content/early/2010/09/13/1006265107.full.pdf
@@ -97,5 +102,6 @@ In 2010, a team of Indian scientists announced they had developed a genetically 
 **Learn more**
 
 * [Daring Fireball's excellent guide to Markdown syntax](http://daringfireball.net/projects/markdown/)
-* [Mark Shropshire's Markdown examples on Github](http://daringfireball.net/projects/markdown/)
+* [Byword's Markdown guide, based on the above](http://bywordapp.com/markdown/syntax.html)
+* [Mark Shropshire's Markdown examples on Github, organized by syntax type](http://daringfireball.net/projects/markdown/)
 * [Potatoes on Wikipedia](http://en.wikipedia.org/wiki/Potatoes)
