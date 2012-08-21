@@ -85,9 +85,10 @@ To make a side of french fries, make a new ``fries`` object.
 
 ##### h5 / Tomatoes [reference links]
 
-[Tomato][] [tomato][]
-[Tomato]: http://en.wikipedia.org/wiki/Tomato
-Click [Raw](https://raw.github.com/trucy/markdown/master/README.md) to see how tomato links are added.
+While it is botanically a fruit, it is considered a vegetable for culinary purposes (as well as by the United States Supreme Court, see [2]), which has caused some confusion.[1]
+
+[1]:http://en.wikipedia.org/wiki/Tomato
+[2]:http://en.wikipedia.org/wiki/Nix_v._Hedden
 
 ###### h6 / Learn more
 
