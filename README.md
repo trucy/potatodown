@@ -39,9 +39,8 @@ Potato, raw, with skin nutritional value per 100g
 Nutrient content of major staple foods
 
 |Staple Food ->               | Maize / Corn | Rice | Wheat | Potato |
-|-----------------------------|--------------|------|-------|--------|
-|Component (per 100g portion)                                    |||||
 |-----------------------------|:------------:|:----:|:-----:|-------:|
+|Component (per 100g portion)                                    |||||
 |Water (g)                    |76            |12    |11     |79      |
 |Energy (kJ)                  |360           |1528  |1419   |322     |
 |Protein (g)                  |3.2           |7.1   |13.7   |2.0     |
