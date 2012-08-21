@@ -66,16 +66,17 @@ To make a side of french fries, make a new ``fries`` object.
 > * S. goniocalyx
 > * S. ajanhuiri
 > 
-> Here's some example code:
+> PotatoScript example:
 > 
-> ``> side.style ``
->	``  "potato" ``
+>		> side.style
+>		"potato"
 
-*Factatoes*
+**Factatoes**
 
 1. French physician Antoine Parmentier studied the potato intensely and in _Examen chymique des pommes de terres_ (Paris, 1774) showed their enormous nutritional value. 
 2. King Louis XVI and his court eagerly promoted the new crop, with Queen Marie Antoinette even wearing a headdress of potato flowers at a fancy dress ball. 
 3. In Ireland, the expansion of potato cultivation was due entirely to the landless laborers, renting tiny plots from landowners who were interested only in raising cattle or in producing grain for market. A single acre of potatoes and the milk of a single cow was enough to feed a whole Irish family a monotonous but nutritionally adequate diet for a healthy, vigorous (and desperately poor) rural population. Often even poor families grew enough extra potatoes to feed a pig that they could sell for cash.
+
     A lack of genetic diversity from the low number of varieties left the crop vulnerable to disease. In 1845, a plant disease known as late blight, caused by the fungus-like oomycete Phytophthora infestans, spread rapidly through the poorer communities of western Ireland, resulting in the crop failures that led to the [Great Irish Famine](http://en.wikipedia.org/wiki/Great_Famine_(Ireland)).
 
 ##### h5 /
