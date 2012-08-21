@@ -1,6 +1,6 @@
 #h1 Potatodown! [about]
 
-A visual potato-based reference for things you can do in Markdown.
+A potato-based visual reference for things you can do in Markdown.
 
 # h1 / Potatoes [images, links, emphasis, blockquotes]
 
@@ -83,10 +83,11 @@ To make a side of french fries, make a new ``fries`` object.
 
     A lack of genetic diversity from the low number of varieties left the crop vulnerable to disease. In 1845, a plant disease known as late blight, caused by the fungus-like oomycete Phytophthora infestans, spread rapidly through the poorer communities of western Ireland, resulting in the crop failures that led to the [Great Irish Famine](http://en.wikipedia.org/wiki/Great_Famine_(Ireland)).
 
-##### h5 / Reference Links
+##### h5 / Tomatoes [reference links]
 
-[Tomato][] [tomato][] [Tomato][] [tomato][]
+[Tomato][] [tomato][]
 [Tomato]: http://en.wikipedia.org/wiki/Tomato
+Click [Raw](https://raw.github.com/trucy/markdown/master/README.md) to see how tomato links are added.
 
 ###### h6 / Learn more
 
