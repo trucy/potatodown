@@ -1,3 +1,7 @@
+#h1 Potatodown! [about]
+
+A visual potato-based reference for things you can do in Markdown.
+
 # h1 / Potatoes [images, links, emphasis, blockquotes]
 
 ![Potatoes of Peru](http://forrked.com/potatoes-peru.png)
@@ -69,7 +73,7 @@ To make a side of french fries, make a new ``fries`` object.
 > PotatoScript example:
 > 
 >		> side.style
->		"potato"
+>		"shoestring"
 
 **Factatoes**
 
@@ -79,9 +83,13 @@ To make a side of french fries, make a new ``fries`` object.
 
     A lack of genetic diversity from the low number of varieties left the crop vulnerable to disease. In 1845, a plant disease known as late blight, caused by the fungus-like oomycete Phytophthora infestans, spread rapidly through the poorer communities of western Ireland, resulting in the crop failures that led to the [Great Irish Famine](http://en.wikipedia.org/wiki/Great_Famine_(Ireland)).
 
-##### h5 /
+##### h5 / Reference Links
+
+Tomato[] tomato[] Tomato[] tomato[]
+[Tomato]: http://en.wikipedia.org/wiki/Tomato
 
 ###### h6 / Learn more
 
 * [Daring Fireball's excellent guide to Markdown syntax](http://daringfireball.net/projects/markdown/)
 * [Mark Shropshire's Markdown examples on Github](http://daringfireball.net/projects/markdown/)
+* [Potatoes on Wikipedia](http://en.wikipedia.org/wiki/Potatoes)
