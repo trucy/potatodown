@@ -9,7 +9,7 @@ The potato is a starchy, tuberous crop from the perennial Solanum tuberosum of t
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Potatoes)
 
-## h2 / Potato production and nutrition [lists and tables]
+## h2 / Potato production and nutrition [lists, tables, horizontal rules]
 
 Potatoes
 
@@ -17,6 +17,8 @@ Potatoes
 2. Potatoes
 3. Potatoes
 4. !
+
+- - -
 
 Potato, raw, with skin nutritional value per 100g
 
@@ -27,6 +29,8 @@ Potato, raw, with skin nutritional value per 100g
 * Protein 2g
 * Water 75g
 
+***
+
 Top Potato Producers in 2009                               | Million metric tons
 -----------------------------------------------------------|--------------------
 People's Republic of China                                 | 73
@@ -35,7 +39,16 @@ Russia                                                     | 31
 Ukraine                                                    | 20
 United States                                              | 20
 
-### h3 / Coding potatoes 
+### h3 / PotatoScript [code]
+
+	// make french fry objects
+	function fries(style,ingredients,serving) {
+		this.style = style;
+		this.ingredients = ingredients;
+		this.serving = serving;
+	}
+
+	var side = new fries("shoestring","potatoes",2);
 
 #### h4 /
 
