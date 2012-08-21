@@ -89,7 +89,9 @@ To make a side of french fries, make a new ``fries`` object.
 
 In 2010, the European Commission cleared the way for 'Amflora' to be grown in the European Union. Nevertheless, under EU rules, individual countries have the right to decide whether they will allow this potato to be grown on their territory. Commercial planting of 'Amflora' was expected in the Czech Republic and Germany in the spring of 2010, and Sweden and the Netherlands in subsequent years.[[1]]
 
-In 2010, a team of Indian scientists announced they had developed a genetically modified potato with 35 to 60% more protein than non-modified potatoes. Protein content was boosted by adding the gene AmA1 from the grain amaranth. They also found 15 to 25% greater crop yields with these potatoes.[[^2]]
+In 2010, a team of Indian scientists announced they had developed a genetically modified potato with 35 to 60% more protein than non-modified potatoes.[*][2]
+
+Protein content was boosted by adding the gene AmA1 from the grain amaranth. They also found 15 to 25% greater crop yields with these potatoes.[[2]]
 
 [1]:http://www.gmo-compass.org/eng/news/492.docu.html
 [2]:http://www.pnas.org/content/early/2010/09/13/1006265107.full.pdf
