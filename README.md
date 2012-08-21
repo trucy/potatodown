@@ -83,12 +83,14 @@ To make a side of french fries, make a new ``fries`` object.
 
     A lack of genetic diversity from the low number of varieties left the crop vulnerable to disease. In 1845, a plant disease known as late blight, caused by the fungus-like oomycete Phytophthora infestans, spread rapidly through the poorer communities of western Ireland, resulting in the crop failures that led to the [Great Irish Famine](http://en.wikipedia.org/wiki/Great_Famine_(Ireland)).
 
-##### h5 / Tomatoes [reference links]
+##### h5 / Genetically-modified potato varieties [reference links]
 
-While it is botanically a fruit, it is considered a vegetable for culinary purposes (as well as by the United States Supreme Court, see [2]), which has caused some confusion.[1]
+In 2010, the European Commission cleared the way for 'Amflora' to be grown in the European Union. Nevertheless, under EU rules, individual countries have the right to decide whether they will allow this potato to be grown on their territory. Commercial planting of 'Amflora' was expected in the Czech Republic and Germany in the spring of 2010, and Sweden and the Netherlands in subsequent years.[[1]]
 
-[1]:http://en.wikipedia.org/wiki/Tomato
-[2]:http://en.wikipedia.org/wiki/Nix_v._Hedden
+In 2010, a team of Indian scientists announced they had developed a genetically modified potato with 35 to 60% more protein than non-modified potatoes. Protein content was boosted by adding the gene AmA1 from the grain amaranth. They also found 15 to 25% greater crop yields with these potatoes.[[2]]
+
+[1]:http://www.gmo-compass.org/eng/news/492.docu.html
+[2]:http://www.pnas.org/content/early/2010/09/13/1006265107.full.pdf
 
 ###### h6 / Learn more
 
