@@ -1,4 +1,4 @@
-#h1 Potatodown! [about]
+#h1 Potatodown [about]
 
 A potato-based visual reference for things you can do in Markdown.
 
