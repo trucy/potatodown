@@ -16,7 +16,7 @@ Source: [Wikipedia](http://en.wikipedia.org/wiki/Potatoes "optional title: Potat
 
 ## h2 / Potato production and nutrition [lists, horizontal rules, tables]
 
-Potatoes
+Count Potatoes
 
 1. Potato
 2. Potatoes
@@ -85,7 +85,7 @@ To make a side of french fries, make a new ``fries`` object.
 
 ##### h5 / Reference Links
 
-Tomato[] tomato[] Tomato[] tomato[]
+[Tomato][] [tomato][] [Tomato][] [tomato][]
 [Tomato]: http://en.wikipedia.org/wiki/Tomato
 
 ###### h6 / Learn more
