@@ -1,6 +1,7 @@
-# h1 / Potatoes [blockquotes, images, links]
+# h1 / Potatoes [blockquotes, images, links, emphasis]
 
 ![Potatoes of Peru](http://forrked.com/potatoes-peru.png)
+**Photo credit:** _[Eric Miraglia](http://www.flickr.com/photos/equanimity/4801336468/)_
 
 The potato is a starchy, tuberous crop from the perennial Solanum tuberosum of the Solanaceae family (also known as the nightshades). The word may refer to the plant itself as well as the edible tuber. In the region of the Andes, there are some other closely related cultivated potato species. Potatoes were introduced outside the Andes region four centuries ago, and have become an integral part of much of the world's cuisine. It is the world's fourth-largest food crop, following rice, wheat and maize.
 
@@ -50,8 +51,11 @@ United States                                              | 20
 
 	var side = new fries("shoestring","potatoes",2);
 
-#### h4 /
+#### h4 / Fancy Potatoes [combined markdown tags]
 
 ##### h5 /
 
-###### h6 /
+###### h6 / References
+
+* [Daring Fireball's excellent guide to Markdown syntax](http://daringfireball.net/projects/markdown/)
+* [Mark Shropshire's Markdown examples on Github](http://daringfireball.net/projects/markdown/)
