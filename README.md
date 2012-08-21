@@ -1,4 +1,4 @@
-# h1 / Potatoes [blockquotes, images, links, emphasis]
+# h1 / Potatoes [images, links, emphasis, blockquotes]
 
 ![Potatoes of Peru](http://forrked.com/potatoes-peru.png)
 **Photo credit:** [Eric Miraglia](http://www.flickr.com/photos/equanimity/4801336468/)
@@ -8,9 +8,9 @@ The potato is a starchy, tuberous crop from the perennial _Solanum tuberosum_ of
 >Long-term storage of potatoes requires specialised care in cold warehouses.
 >>Wild potato species occur throughout the Americas, from the United States to southern Chile. The potato was originally believed to have been domesticated independently in multiple locations, but later genetic testing of the wide variety of cultivars and wild species proved a single origin for potatoes in the area of present-day southern Peru and extreme northwestern Bolivia (from a species in the Solanum brevicaule complex), where they were domesticated 7,000–10,000 years ago.
 
-Source: [Wikipedia](http://en.wikipedia.org/wiki/Potatoes)
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Potatoes "optional title: Potatoes of Peru")
 
-## h2 / Potato production and nutrition [lists, tables, horizontal rules]
+## h2 / Potato production and nutrition [lists, horizontal rules, tables]
 
 Potatoes
 
@@ -55,9 +55,32 @@ To make a side of french fries, make a new ``fries`` object.
 
 #### h4 / Fancy Potatoes [combined markdown tags]
 
+> ##### Potato species
+>
+> The major species grown worldwide is _Solanum tuberosum_ (a tetraploid with 48 chromosomes), and modern varieties of this species are the most widely cultivated.
+>
+> There are also four diploid species (with 24 chromosomes):
+>
+> * S. stenotomum
+> * S. phureja
+> * S. goniocalyx
+> * S. ajanhuiri
+> 
+> Here's some example code:
+> 
+> ``> side.style ``
+>	``  "potato" ``
+
+*Factatoes*
+
+1. French physician Antoine Parmentier studied the potato intensely and in _Examen chymique des pommes de terres_ (Paris, 1774) showed their enormous nutritional value. 
+2. King Louis XVI and his court eagerly promoted the new crop, with Queen Marie Antoinette even wearing a headdress of potato flowers at a fancy dress ball. 
+3. In Ireland, the expansion of potato cultivation was due entirely to the landless laborers, renting tiny plots from landowners who were interested only in raising cattle or in producing grain for market. A single acre of potatoes and the milk of a single cow was enough to feed a whole Irish family a monotonous but nutritionally adequate diet for a healthy, vigorous (and desperately poor) rural population. Often even poor families grew enough extra potatoes to feed a pig that they could sell for cash.
+    A lack of genetic diversity from the low number of varieties left the crop vulnerable to disease. In 1845, a plant disease known as late blight, caused by the fungus-like oomycete Phytophthora infestans, spread rapidly through the poorer communities of western Ireland, resulting in the crop failures that led to the [Great Irish Famine](http://en.wikipedia.org/wiki/Great_Famine_(Ireland)).
+
 ##### h5 /
 
-###### h6 / References
+###### h6 / Learn more
 
 * [Daring Fireball's excellent guide to Markdown syntax](http://daringfireball.net/projects/markdown/)
 * [Mark Shropshire's Markdown examples on Github](http://daringfireball.net/projects/markdown/)
