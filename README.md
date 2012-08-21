@@ -49,7 +49,7 @@ United States                                              | 20
 		this.serving = serving;
 	}
 
-	`var side = new fries("shoestring","potatoes",2);`
+`var side = new fries("shoestring","potatoes",2);`
 
 #### h4 / Fancy Potatoes [combined markdown tags]
 
